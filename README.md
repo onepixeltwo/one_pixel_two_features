@@ -1,4 +1,6 @@
-#One Pixel, Two Feature Sets: Enhancing Hyperspectral Image Segmentation with Diffusion-Model Extracted Spatial Features 
+
+# One Pixel, Two Feature Sets: Enhancing Hyperspectral Image Segmentation with Diffusion-Model Extracted Spatial Features
+
 
 ## Dataset
 
