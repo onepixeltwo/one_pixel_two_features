@@ -14,3 +14,4 @@ We first divide the HSI cubes into 64x64 spatial size segments. Please refer to 
 
 
 
+## note: the code is modified based on https://github.com/openai/guided-diffusion and https://github.com/yandex-research/ddpm-segmentation
