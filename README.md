@@ -6,11 +6,14 @@
 
 The experiment is evaluated on two Hyperspectral Images (HSI): Augsburg and Berlin. 
 
-The datasets can be downloaded from [this GitHub repository](https://github.com/danfenghong/ISPRS_S2FL).
+The datasets can be downloaded from [this GitHub repository](https://github.com/danfenghong/ISPRS_S2FL
+
+## Pre-trained model 
+We use 64x64 pre-trained diffusion model with ImageNet, the pre-trained diffusion model can be download from https://github.com/openai/guided-diffusion
 
 ### Data preprocessing 
-We first divide the HSI cubes into 64x64 spatial size segments. Please refer to the notebook `hyperspectral snip Belin.ipynb' for detailed steps and code.
+We first divide the HSI cubes into 64x64 spatial size segments. Please refer to the notebook `hyperspectral snip Belin.ipynb' and 'hyperspectral snip Augsburg.ipynb' for detailed steps.
 
 
 
-### Note: the code is modified based on https://github.com/openai/guided-diffusion and https://github.com/yandex-research/ddpm-segmentation, thanks for sharing code
+### Note: the code is modified based on https://github.com/openai/guided-diffusion and https://github.com/yandex-research/ddpm-segmentation. Thanks for generously sharing code.
