@@ -9,8 +9,7 @@ The experiment is evaluated on two Hyperspectral Images (HSI): Augsburg and Berl
 The datasets can be downloaded from [this GitHub repository](https://github.com/danfenghong/ISPRS_S2FL).
 
 ### Data preprocessing 
-We first divide the HSI cubes into 64x64 spatial size segments. Please refer to the notebook `ipynb' for detailed steps and code.
-
+We first divide the HSI cubes into 64x64 spatial size segments. Please refer to the notebook `hyperspectral snip Belin.ipynb' for detailed steps and code.
 
 
 
